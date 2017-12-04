@@ -8,6 +8,7 @@ globals
   comval             ;varijabla u koju spremamo vrijednost računala
   win-matrix         ;matrica u koju spremamo sve moguće kombinacije pobijeda
   tiles              ;lista koordinata patcheva
+  meow ; kikijeva varijabla globalna
 ]
 
 to setup
